@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body, #root, #layout {
+  max-height: 100vh;
+  box-sizing: border-box;
+}
